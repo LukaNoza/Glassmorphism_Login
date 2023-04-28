@@ -175,7 +175,7 @@ section .color:nth-child(3) {
 }
 
 .form .inputBox input::placeholder {
-    color: #e05df1;
+    color: #d3266e;
 }
 
 .form .inputBox input[type="submit"] {
@@ -189,10 +189,11 @@ section .color:nth-child(3) {
 
 .forget {
     margin-top: 5px;
-    color: #fff;
+    color: #25abbd;
 }
 
 .forget a {
-    color: #fff;
+    color: #25abbd;
     font-weight: 600;
+    text-decoration: none;
 }
